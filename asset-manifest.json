@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Kittipong2001.github.io/memory-card/static/css/main.05f3d8ea.css",
-    "main.js": "/Kittipong2001.github.io/memory-card/static/js/main.f5bc0b6a.js",
-    "static/media/gorya.jpg": "/Kittipong2001.github.io/memory-card/static/media/gorya.6836ddc4cb28972c242a.jpg",
-    "static/media/mj.jpg": "/Kittipong2001.github.io/memory-card/static/media/mj.8587d9701f37e6493337.jpg",
-    "static/media/kavin.jpg": "/Kittipong2001.github.io/memory-card/static/media/kavin.bb06c1b2cb5f393d9950.jpg",
-    "static/media/ren.jpg": "/Kittipong2001.github.io/memory-card/static/media/ren.d2de1f45479b55a9267f.jpg",
-    "static/media/thyme.jpg": "/Kittipong2001.github.io/memory-card/static/media/thyme.680edb16c321b02046f9.jpg",
-    "index.html": "/Kittipong2001.github.io/memory-card/index.html",
-    "main.05f3d8ea.css.map": "/Kittipong2001.github.io/memory-card/static/css/main.05f3d8ea.css.map",
-    "main.f5bc0b6a.js.map": "/Kittipong2001.github.io/memory-card/static/js/main.f5bc0b6a.js.map"
+    "main.css": "/memory-card/static/css/main.05f3d8ea.css",
+    "main.js": "/memory-card/static/js/main.ef9c048d.js",
+    "static/media/gorya.jpg": "/memory-card/static/media/gorya.6836ddc4cb28972c242a.jpg",
+    "static/media/mj.jpg": "/memory-card/static/media/mj.8587d9701f37e6493337.jpg",
+    "static/media/kavin.jpg": "/memory-card/static/media/kavin.bb06c1b2cb5f393d9950.jpg",
+    "static/media/ren.jpg": "/memory-card/static/media/ren.d2de1f45479b55a9267f.jpg",
+    "static/media/thyme.jpg": "/memory-card/static/media/thyme.680edb16c321b02046f9.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.05f3d8ea.css.map": "/memory-card/static/css/main.05f3d8ea.css.map",
+    "main.ef9c048d.js.map": "/memory-card/static/js/main.ef9c048d.js.map"
   },
   "entrypoints": [
     "static/css/main.05f3d8ea.css",
-    "static/js/main.f5bc0b6a.js"
+    "static/js/main.ef9c048d.js"
   ]
 }
